@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tests>
+    <test>
+        <englishSentence>Today the weather is good</englishSentence>
+        <id>1</id>
+        <russianSentence>Сегодня хорошая погода</russianSentence>
+        <wordsList>weather</wordsList>
+        <wordsList>good</wordsList>
+        <wordsList>is</wordsList>
+        <wordsList>Today</wordsList>
+        <wordsList>the</wordsList>
+    </test>
+    <test>
+        <englishSentence>I have a cat</englishSentence>
+        <id>2</id>
+        <russianSentence>У меня есть кот</russianSentence>
+        <wordsList>have</wordsList>
+        <wordsList>I</wordsList>
+        <wordsList>cat</wordsList>
+        <wordsList>a</wordsList>
+    </test>
+    <test>
+        <englishSentence>I love walking in the park</englishSentence>
+        <id>3</id>
+        <russianSentence>Я люблю гулять по парку</russianSentence>
+        <wordsList>park</wordsList>
+        <wordsList>the</wordsList>
+        <wordsList>I</wordsList>
+        <wordsList>in</wordsList>
+        <wordsList>walking</wordsList>
+        <wordsList>love</wordsList>
+    </test>
+    <test>
+        <englishSentence>Yesterday it was raining</englishSentence>
+        <id>4</id>
+        <russianSentence>Вчера был дождь</russianSentence>
+        <wordsList>raining</wordsList>
+        <wordsList>Yesterday</wordsList>
+        <wordsList>it</wordsList>
+        <wordsList>was</wordsList>
+    </test>
+    <test>
+        <englishSentence>My favorite color is green</englishSentence>
+        <id>5</id>
+        <russianSentence>Мой любимый цвет - зеленый</russianSentence>
+        <wordsList>color</wordsList>
+        <wordsList>green</wordsList>
+        <wordsList>favorite</wordsList>
+        <wordsList>is</wordsList>
+        <wordsList>My</wordsList>
+    </test>
+</tests>
